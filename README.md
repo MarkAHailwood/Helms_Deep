@@ -1,2 +1,2 @@
-# Helms_Deep
-A deep dark place where excellence goes to grow!
+# Python experimentation
+The classic Pong - built using 100% python. 
